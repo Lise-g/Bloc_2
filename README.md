@@ -6,9 +6,9 @@ In order to understand what makes people interested into each other, I chose to 
 - Do people perceive themselves accurately and how do the speed dating events affect them ?
 - Exploration of a few parameters that can influence matches and dates.
 
-> Notebook : 'speed_dating_lise.ipynb'
+> Notebook : 'speed_dating/speed_dating_lise.ipynb'
 
-> Video link : 
+> Video link : 👉 https://share.vidyard.com/watch/1xYMoo9kD7oApGD3xysiBY? 👈
 
 Contact : Lise Gnos  
 email : lise.gnos@gmail.com
